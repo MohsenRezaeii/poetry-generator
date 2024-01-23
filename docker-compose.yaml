@@ -1,0 +1,7 @@
+services:
+  poetry-generator:
+    image: mohsenrezaei89/poetry-generator:latest
+    build:
+      context: .
+    ports:
+      - "8080:8080"
