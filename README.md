@@ -1,4 +1,4 @@
-## Project Documentation: Megaventory Integration
+## Project Documentation: Poetry Generator
 
 ### Overview
 
